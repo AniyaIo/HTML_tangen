@@ -192,6 +192,11 @@ img {
   max-inline-size: 100%;
 }
 
+img#niconico{
+  margin:auto;
+  display: block;
+}
+
 p,
 dl,
 ul,
